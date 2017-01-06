@@ -1,4 +1,4 @@
-# Opening apps from the directory you in as Administrator
+# Opening apps from the directory you're in as Administrator
 
 A small app that allows you to run other apps as admin from command line easily.
 
